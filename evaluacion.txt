@@ -1,8 +1,13 @@
 1) Desarrolle como llegamos a este repositorio
-Respuesta: 
+Respuesta: Desde descifrar el jwt token, a travez de la web https://jwt.io/
 
 2) Qué es un JWT? Cuáles son sus partes?
-Respuesta:
+Respuesta: 
+- header: aca dice como esta codificado, tipo de codificacion y algoritmo
+- playload: aca corresponde al bloque de la data que se envia
+- signature: esta es la signatura de la encriptografia
 
 3) Cuál es la diferencia entre Git y Github?
 Respuesta:
+- git es el gestor de versiones
+- github, es el espacio en la web donde se almacenan los repositorios
