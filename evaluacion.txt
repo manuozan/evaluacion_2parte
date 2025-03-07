@@ -1,0 +1,8 @@
+1) Desarrolle como llegamos a este repositorio
+Respuesta: 
+
+2) Qué es un JWT? Cuáles son sus partes?
+Respuesta:
+
+3) Cuál es la diferencia entre Git y Github?
+Respuesta:
