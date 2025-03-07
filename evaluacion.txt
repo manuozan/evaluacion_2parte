@@ -1,8 +1,25 @@
 1) Desarrolle como llegamos a este repositorio
 Respuesta: 
-
+Llegamos a este repositorio mediante la decodificiacion de el JWT que se ubicaba en el 
+formulario de la evaluacion, el mismo se encontraba el parte de Payload:Data 
+  "area": "desarrollo",
+  "repo": "https://github.com/manuozan/evaluacion_2parte"
+}
 2) Qué es un JWT? Cuáles son sus partes?
-Respuesta:
-
+Respuesta: 
+JWT es un Json Web Token, es un codigo generado a partir de una combinacion de caracteres alfanumericos, 
+utilizado para la seguridad de las aplicaciones web, un claro ejemplo de esto es la autenticacion a la hora de de loguearse en una aplicacion,
+si las credenciales son correctas se permite el acceso a la pagina web y se genera un token que valida el mismo. Tambien se utiliza para hacer peticiones a endpoints del back,
+una practica podria ser enviar el token en cada peticion http al backend desde el header (request), para asi asegurarse de no tener acceso a recursos por parte de usuarios sin permisos.
+Partes:
+encabezado, donde se incluye el tipo de token y el algoritmo HS256
+data, donde se incluye informacion que se quiera enviar atraves del token
+firma, se utiliza para verificar la autenticacacion de quien envia el token jwt
 3) Cuál es la diferencia entre Git y Github?
 Respuesta:
+git es un sistema de versionado de archivos que permite manejar 
+repositorios locales, a su vez permite manipular ramas, donde en cada una se pueden trabajar funcionalidades
+diferentes y poder manejar de una manera mas limpia las tareas y sin pisarse entre desarrolladores
+github es una plataforma web de versionado de archivos que permite almacenar repositorios remotos y permite 
+organizar el desarrollo de una manera mas estrucutrada, donde se pueden hacer pull request, merges con conflictos mediante un editor,
+y asignar tareas 
