@@ -1,8 +1,8 @@
 1) Desarrolle como llegamos a este repositorio
-Respuesta: 
+Respuesta: llegamos por medio de la URL del formulario y después lo clonamos en visual
 
 2) Qué es un JWT? Cuáles son sus partes?
-Respuesta:
+Respuesta: es un json web token, sirve para codificar. Y consta de tres partes: header(el encabezado), payload(cuerpo), signature(firma)
 
 3) Cuál es la diferencia entre Git y Github?
-Respuesta:
+Respuesta: git es el controlador de versiones, que te permite modificarlas y crear ramas con las diferencias, mientras que github es la página que facilita el uso de GIT
