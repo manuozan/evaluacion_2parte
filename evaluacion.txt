@@ -6,3 +6,7 @@ Respuesta: es un json web token, sirve para codificar. Y consta de tres partes: 
 
 3) Cuál es la diferencia entre Git y Github?
 Respuesta: git es el controlador de versiones, que te permite modificarlas y crear ramas con las diferencias, mientras que github es la página que facilita el uso de GIT
+
+> Cómo podría fusionar las ramas? Qué ocurriría al intentarlo?
+
+Se podrían fusionar con un merge, pero si hay cambios en la misma parte por parte de ambas ramas, se van a generar conflictos que se pueden solucionar seleccionando cual parte es la que se quiere mantener.
