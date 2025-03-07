@@ -19,7 +19,7 @@
 >En este punto deben subir sí o sí los cambios pero la evaluación continúa ☠️
 
 * Agregar al archivo txt la siguiente pregunta:
-> Cómo podría fusionar las ramas? Que ocurriría al intentarlo?
+> Cómo podría fusionar las ramas? Qué ocurriría al intentarlo?
 * Responda la pregunta y desarrolle brevemente
 * subir los cambios nuevamente al repositorio remoto (SEGUNDO CAMBIO)
 
