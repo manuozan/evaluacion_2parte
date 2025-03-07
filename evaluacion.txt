@@ -23,3 +23,7 @@ diferentes y poder manejar de una manera mas limpia las tareas y sin pisarse ent
 github es una plataforma web de versionado de archivos que permite almacenar repositorios remotos y permite 
 organizar el desarrollo de una manera mas estrucutrada, donde se pueden hacer pull request, merges con conflictos mediante un editor,
 y asignar tareas 
+Cómo podría fusionar las ramas? Qué ocurriría al intentarlo?
+Las ramas se podrian fusionar mediante merge, por ejemplo tengo una rama develop actualizada por otros compañeros, y yo en mi 
+rama feature necesito usar esos cambios, por lo tanto uso git merge, en casos donde hay conflictos con el codigo, se abre un editor 
+de texto para solucionar los conflictos y que el codigo no tenga errores asi pueda ejecutarse.
