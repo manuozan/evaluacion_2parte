@@ -1,5 +1,5 @@
 1) Desarrolle como llegamos a este repositorio
-Respuesta: Desde descifrar el jwt token, a travez de la web https://jwt.io/
+Respuesta: Desde descifrar el jwt token, a traves de la web https://jwt.io/
 
 2) Qué es un JWT? Cuáles son sus partes?
 Respuesta: 
@@ -11,3 +11,8 @@ Respuesta:
 Respuesta:
 - git es el gestor de versiones
 - github, es el espacio en la web donde se almacenan los repositorios
+
+4) Cómo podría fusionar las ramas? Qué ocurriría al intentarlo?
+- con un pull request p con git pull desde otra rama. (pull = fetch + merge)
+- esto generaria conflictos, ya que hay una diferencia con las versiones.
+- al realizar el merge, se va a tener que decidir que version queda.
